@@ -1,0 +1,33 @@
+canonical_identifier: bkk:krp/KR3eq057/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq057/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 毛對山醫話
+  identifiers:
+    krp: KR3eq057
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq057.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq057_000-jc.yaml, hash: 'sha256:bf661a65b0560508bc793c08cdff7026d046827d75a0d122a5ea7ad41ac83f3b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq057_000-jc.markers.yaml, hash: 'sha256:9e1c57fe9f026f6293dbd695b53aa76551edc3c5c6b5fb9932aba0e2aab70dd2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq057_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 20029
+  label: 正文
+  type: section
+  level: 1
+hash: sha256:484fcbc12d040c00d0b8ebb0c1926475dd30be31e5da733efeb0200cb2d76c52

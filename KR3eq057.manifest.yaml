@@ -1,0 +1,36 @@
+canonical_identifier: bkk:krp/KR3eq057/v1
+canonical_location: https://kanripo.org/bkk/KR3eq057/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 毛對山醫話
+  identifiers:
+    krp: KR3eq057
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq057.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq057_000.yaml, hash: 'sha256:0789016cdff7ac2beed11af9c27187df8b46a503eb8db3460942d8f63aaae999'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq057_000.markers.yaml, hash: 'sha256:11ad30d4d3e7830339fcd45ecd57f92bd2a21a918c229b19ba95c29e7dfb3b17'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq057_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 20029
+  label: 正文
+  type: section
+  level: 1
+hash: sha256:8a25703e24c8677c83c38c8d6081db6f405e9612ebfbafc22e3b64fa35dbc166
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
